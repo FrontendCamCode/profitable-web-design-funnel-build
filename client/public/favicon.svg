@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Whop Stack">
+  <rect width="64" height="64" fill="#635bff"/>
+  <path d="M11 17h19v13H11z" fill="#fff"/>
+  <path d="M27 27h25v13H27z" fill="#0b0b0c"/>
+  <path d="M18 39h25v13H18z" fill="#fff"/>
+  <path d="M45 12h8v8h-8z" fill="#1687ff"/>
+</svg>
